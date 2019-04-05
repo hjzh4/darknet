@@ -1,5 +1,4 @@
 from ctypes import *
-import math
 import random
 
 def sample(probs):
